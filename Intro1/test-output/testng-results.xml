@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-21T04:03:30Z" name="Suite" finished-at="2024-11-21T04:03:30Z" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2024-11-21T04:03:30Z" name="Test" finished-at="2024-11-21T04:03:30Z" duration-ms="30">
+      <class name="testNG.login">
+        <test-method signature="banklogin()[pri:0, instance:testNG.login@457c9034]" started-at="2024-11-21T09:33:30Z" name="banklogin" finished-at="2024-11-21T09:33:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- banklogin -->
+        <test-method signature="mobilelogin()[pri:0, instance:testNG.login@457c9034]" started-at="2024-11-21T09:33:30Z" name="mobilelogin" finished-at="2024-11-21T09:33:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilelogin -->
+        <test-method signature="weblogin()[pri:0, instance:testNG.login@457c9034]" started-at="2024-11-21T09:33:30Z" name="weblogin" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weblogin -->
+      </class> <!-- testNG.login -->
+      <class name="testNG.creditAcc">
+        <test-method signature="crBalance()[pri:0, instance:testNG.creditAcc@ae3540e]" started-at="2024-11-21T09:33:30Z" name="crBalance" finished-at="2024-11-21T09:33:30Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crBalance -->
+        <test-method signature="crStatements()[pri:0, instance:testNG.creditAcc@ae3540e]" started-at="2024-11-21T09:33:30Z" name="crStatements" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crStatements -->
+        <test-method signature="crTransaction()[pri:0, instance:testNG.creditAcc@ae3540e]" started-at="2024-11-21T09:33:30Z" name="crTransaction" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crTransaction -->
+        <test-method signature="emi()[pri:0, instance:testNG.creditAcc@ae3540e]" started-at="2024-11-21T09:33:30Z" name="emi" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emi -->
+      </class> <!-- testNG.creditAcc -->
+      <class name="testNG.debitAcc">
+        <test-method signature="dbBalance()[pri:0, instance:testNG.debitAcc@7922d892]" started-at="2024-11-21T09:33:30Z" name="dbBalance" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbBalance -->
+        <test-method signature="dbStatements()[pri:0, instance:testNG.debitAcc@7922d892]" started-at="2024-11-21T09:33:30Z" name="dbStatements" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbStatements -->
+        <test-method signature="dbTransaction()[pri:0, instance:testNG.debitAcc@7922d892]" started-at="2024-11-21T09:33:30Z" name="dbTransaction" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbTransaction -->
+      </class> <!-- testNG.debitAcc -->
+    </test> <!-- Test -->
+    <test started-at="2024-11-21T04:03:30Z" name="check" finished-at="2024-11-21T04:03:30Z" duration-ms="6">
+      <class name="testNG.login">
+        <test-method signature="banklogin()[pri:0, instance:testNG.login@1f53a5dc]" started-at="2024-11-21T09:33:30Z" name="banklogin" finished-at="2024-11-21T09:33:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- banklogin -->
+        <test-method signature="mobilelogin()[pri:0, instance:testNG.login@1f53a5dc]" started-at="2024-11-21T09:33:30Z" name="mobilelogin" finished-at="2024-11-21T09:33:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilelogin -->
+        <test-method signature="weblogin()[pri:0, instance:testNG.login@1f53a5dc]" started-at="2024-11-21T09:33:30Z" name="weblogin" finished-at="2024-11-21T09:33:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weblogin -->
+      </class> <!-- testNG.login -->
+    </test> <!-- check -->
+  </suite> <!-- Suite -->
+</testng-results>
